@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshay-bg
+- 👋 Hi, I’m @Akshay-fr
 - 👀 I’m interested in Web-development(Specially Front-End Development)
 - 🌱 I’m currently learning Javascript(Dom Manipulation)
 - 💞️ I’m looking to collaborate To learning purpose
